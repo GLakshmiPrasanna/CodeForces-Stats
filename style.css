@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+    background-repeat: no-repeat;
+}
+table{
+    table-layout: fixed;
+}
+h1{
+    margin: 50px auto 30px;
+}
